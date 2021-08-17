@@ -5,7 +5,7 @@ Instructions:
 1. Install the Scroll pHAT on a raspberry pi 
 2. Add the repository to the device.
 3. Create the JSON file you wish to use
-4. Change the file opened by the main.py script (line 6)- `open('jojo.json')`
+4. Change the file opened by the main.py script (line 6) - `open('jojo.json')`
 5. Run the script using python main.py or python3.py
 6. Prints texts from a json to the pimroni scroll phat
 
